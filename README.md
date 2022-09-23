@@ -9,5 +9,4 @@
 
 
 ### My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=JenniferMLewis&theme=dark&hide_border=true)](https://git.io/streak-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JenniferMLewis&bg_color=130F40&icon_color=d73d4e&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Nacer KRAA   github stars"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=JenniferMLewis&theme=dark&hide_border=true)](https://git.io/streak-stats)<img align="center" src="https://github-readme-stats.vercel.app/api?username=JenniferMLewis&bg_color=130F40&icon_color=d73d4e&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Nacer KRAA   github stars"/>
